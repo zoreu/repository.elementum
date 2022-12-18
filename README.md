@@ -16,3 +16,10 @@ Include Elementum Repository with your repo to always have the **latest** update
 Download Elementum Repository
 
 [Download](https://github.com/zoreu/repository.elementum/raw/main/repository.elementum2-1.0.0.zip)
+
+
+Repo to source kodi
+
+```
+https://tinyurl.com/repoelementum
+```
